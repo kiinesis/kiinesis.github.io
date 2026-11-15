@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erica Hickerson"
+  name   : "Kenya"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A writer and photographer based in Seattle"
   links:
